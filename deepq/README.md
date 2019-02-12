@@ -1,10 +1,8 @@
 ## If you are curious.
-
+## Main file (train_cartpole)
 ##### Train a Cartpole agent and watch it play once it converges!
 
 Here's a list of commands to run to quickly get a working example:
-
-<img src="../../data/cartpole.gif" width="25%" />
 
 
 ```bash
